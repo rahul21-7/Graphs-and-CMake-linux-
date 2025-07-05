@@ -1,3 +1,0 @@
-/home/dasari/Desktop/cpp/build/CMakeFiles/graph.dir
-/home/dasari/Desktop/cpp/build/CMakeFiles/edit_cache.dir
-/home/dasari/Desktop/cpp/build/CMakeFiles/rebuild_cache.dir
