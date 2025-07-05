@@ -7,7 +7,7 @@
 #include <stack>
 using namespace std;
 
-class graph{
+class Graph{
 public:
 	unordered_map<int, list<int> > generateAdjList(vector<vector<int> > &edges, 
     int n, bool isDirected);
